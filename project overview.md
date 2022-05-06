@@ -85,6 +85,7 @@ I have left pictures below
 >Note: Red is the laggy area, green is the normal area, orange is the old sector, purple is the new sector
 
 ![](https://raw.githubusercontent.com/WcaleNieWolny/FunnySectors/main/img/img1.png)
+
 In this situation the bussy area is near two borders
 We do not want to have that. It woudl do something like this:
 
